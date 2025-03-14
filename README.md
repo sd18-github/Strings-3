@@ -6,6 +6,6 @@
 
 ## Problem2 
 
-Basic Calculator || (https://leetcode.com/problems/basic-calculator-ii/)
+Basic Calculator II (https://leetcode.com/problems/basic-calculator-ii/)
 
 
